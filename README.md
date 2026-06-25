@@ -12,3 +12,12 @@ short_description: AI Sentiment + Emotion + Topic Classification
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+# Smart Sentiment Analyzer
+
+An AI-powered Sentiment, Emotion, and Topic Classification application.
+
+## Live Demo
+You can try out the live application here:
+[Smart Sentiment Analyzer on Hugging Face Spaces](https://huggingface.co/spaces/SRI-KRISHNA7/smart-sentiment-analyzer)
+
